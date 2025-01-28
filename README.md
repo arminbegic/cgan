@@ -62,12 +62,7 @@ Finally, we refer to [this tutorial](https://phoenixnap.com/kb/ffmpeg-windows) f
 Follow the instructions below to set up the project on your local machine.
 ### Installation
 
-Start by cloning this repository:
-
-```bash
-git clone git@github.com:Gamma1024/Conditional-GAN.git
-cd Conditional-GAN
-```
+Start by cloning this repository.
 
 Further, to replicate our results we suggest setting up a conda environment (or any other virtual environment) and then installing the required packages:
 
